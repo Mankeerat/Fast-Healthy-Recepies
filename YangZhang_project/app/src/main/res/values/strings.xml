@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YangZhang_project</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_under5">Under5</string>
+    <string name="title_activity_under10">Under10</string>
+    <string name="title_activity_under15">Under15</string>
+    <string name="title_activity_add_recipe">AddRecipe</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="celsius">&#176;C</string>
+    <string name="title_activity_view_all">ViewAll</string>
+</resources>
